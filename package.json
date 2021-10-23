@@ -1,0 +1,32 @@
+{
+  "name": "adalo-theme",
+  "displayName": "Adalo Theme",
+  "description": "Turn your software engineering environment better with our theme!",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.61.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "icon": "icon.png",
+  "publisher": "DanielCosta",
+  "author": {
+    "name": "Daniel Cunha Costa",
+    "email": "daniel.costa@adalo.com",
+    "url": "https://www.linkedin.com/in/danielcunhac"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/danicunhac/adalo-theme.git"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Adalo Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Adalo Theme-color-theme.json"
+      }
+    ]
+  }
+}

@@ -2,7 +2,7 @@
   "name": "adalo-theme",
   "displayName": "Adalo Theme",
   "description": "Turn your software engineering environment better with our theme!",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "engines": {
     "vscode": "^1.61.0"
   },

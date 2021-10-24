@@ -118,7 +118,7 @@
       "name": "Variables",
       "scope": ["variable", "string constant.other.placeholder"],
       "settings": {
-        "foreground": "#fff"
+        "foreground": "#ffffff"
       }
     },
     {
@@ -136,10 +136,18 @@
       }
     },
     {
-      "name": "Keyword, Storage",
-      "scope": ["keyword", "storage.type", "storage.modifier"],
+      "name": "Keyword",
+      "scope": ["keyword"],
       "settings": {
-        "foreground": "#00A898"
+        "foreground": "#ffffff"
+      }
+    },
+    {
+      "name": "Storage",
+      "scope": ["storage.type", "storage.modifier"],
+      "settings": {
+        // "foreground": "#00A898"
+        "foreground": "#EB4D30"
       }
     },
     {
@@ -151,7 +159,8 @@
         "keyword.other.substitution"
       ],
       "settings": {
-        "foreground": "#EB4D30"
+        // "foreground": "#EB4D30"
+        "foreground": "#00A898"
       }
     },
     {
@@ -182,7 +191,8 @@
       "name": "Block Level Variables",
       "scope": ["meta.block variable.other"],
       "settings": {
-        "foreground": "#FFFFFF"
+        // "foreground": "#ffffff"
+        "foreground": "#5cded2"
       }
     },
     {

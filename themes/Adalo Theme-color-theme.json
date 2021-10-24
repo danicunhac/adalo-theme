@@ -27,6 +27,7 @@
     "editor.rangeHighlightBackground": "#dbdbdb30",
     "editor.rangeHighlightBorder": "#ffffff00",
     "editor.hoverHighlightBackground": "#33333320",
+    "editor.wordHighlightStrongBackground": "#f7eaee30",
     // Activity Bar
     "activityBarBadge.background": "#FFBE00",
     "activityBar.foreground": "#FFBE00",
@@ -117,7 +118,7 @@
       "name": "Variables",
       "scope": ["variable", "string constant.other.placeholder"],
       "settings": {
-        "foreground": "#EEFFFF"
+        "foreground": "#fff"
       }
     },
     {
@@ -219,7 +220,7 @@
         "meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
       ],
       "settings": {
-        "foreground": "#C3E88D"
+        "foreground": "#b7d587"
       }
     },
     {
@@ -300,7 +301,7 @@
       "name": "Attributes",
       "scope": ["entity.other.attribute-name"],
       "settings": {
-        "foreground": "#C792EA"
+        "foreground": "#fee6e1"
       }
     },
     {
@@ -325,7 +326,7 @@
       "name": "CSS ID's",
       "scope": ["source.sass keyword.control"],
       "settings": {
-        "foreground": "#82AAFF"
+        "foreground": "#00A898"
       }
     },
     {

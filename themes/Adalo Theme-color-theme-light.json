@@ -134,7 +134,8 @@
       "name": "Storage",
       "scope": ["storage.type", "storage.modifier"],
       "settings": {
-        "foreground": "#EB4D30"
+        "foreground": "#EB4D30",
+        "fontStyle": "bold"
       }
     },
     {

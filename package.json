@@ -23,9 +23,14 @@
   "contributes": {
     "themes": [
       {
-        "label": "Adalo Theme",
+        "label": "Adalo Dark Theme",
         "uiTheme": "vs-dark",
         "path": "./themes/Adalo Theme-color-theme.json"
+      },
+      {
+        "label": "Adalo Light Theme",
+        "uiTheme": "vs",
+        "path": "./themes/Adalo Theme-color-theme-light.json"
       }
     ]
   }

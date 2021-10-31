@@ -30,7 +30,7 @@
     "activityBar.background": "#292929",
     "activityBar.inactiveForeground": "#fff",
     "activityBarBadge.foreground": "#292929",
-    "activityBar.border": "#292929",
+    "activityBar.border": "#252525",
     "activityBar.activeBackground": "#292929",
     "sideBarTitle.foreground": "#fff",
     "sideBar.background": "#252525",
@@ -91,7 +91,14 @@
     "inputOption.activeForeground": "#fff",
     "input.placeholderForeground": "#dbdbdb",
     "textLink.foreground": "#FFBE00",
-    "selection.background": "#dbdbdb30"
+    "selection.background": "#dbdbdb30",
+    "terminal.background": "#292929",
+    "terminal.foreground": "#ffffff",
+    "panel.background": "#292929",
+    "panel.border": "#dbdbdb30",
+    "panelTitle.activeBorder": "#FFBE00",
+    "panelTitle.activeForeground": "#ffffff",
+    "panelTitle.inactiveForeground": "#ffffff70"
   },
   "tokenColors": [
     {
